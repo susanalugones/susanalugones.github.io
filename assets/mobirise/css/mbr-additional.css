@@ -1,6 +1,8 @@
+@import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -443,19 +445,19 @@ h6,
 }
 #ext_menu-2 .link[aria-expanded="true"],
 #ext_menu-2 .dropdown-menu {
-  background: #0e0e0e;
+  background: #000000;
 }
 #ext_menu-2 .nav-dropdown-sm .link:focus,
 #ext_menu-2 .nav-dropdown-sm .link:hover,
 #ext_menu-2 .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-2 .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
+  background: #000000!important;
 }
 #ext_menu-2 .navbar,
 #ext_menu-2 .nav-dropdown-sm,
 #ext_menu-2 .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-2 .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
+  background: #000000;
 }
 #ext_menu-2 .bg-color.transparent .link {
   color: #ffffff;
@@ -476,12 +478,16 @@ h6,
 #msg-box6-g .lead p {
   color: #fff;
 }
+#msg-box6-g SPAN {
+  font-family: 'Merriweather', serif;
+  font-size: 48px;
+}
 #features4-r .card-subtitle {
   color: #bcbcbc;
 }
 #features4-r .iconbox {
-  background-color: #f2f2f2;
-  border-color: #f2f2f2;
+  background-color: #ffffff;
+  border-color: #ffffff;
 }
 #ext_menu-18 .hide-buttons .nav-btn {
   display: none !important;

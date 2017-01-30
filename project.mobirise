@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 102,
+    "uniqCompNum": 105,
     "versionPublish": "3.11.1",
     "path": "file:///G:",
     "screenshot": "screenshot.png"
@@ -69,13 +69,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -94,7 +94,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-2",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -109,7 +109,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/signature-2-384x128.png",
+              "src": "@PROJECT_PATH@/assets/images/signature-2-384x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -123,7 +123,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Introduction Picture</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Introduction Video</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Goals and Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Contact</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop\">Adobe PS</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"word\">Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint\">PowerPoint</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobe audition\">Adobe Audition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobe premiere\">Adobe Premire</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobe illustrator\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe PS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Audition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IC3<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mr.Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Haayen Carolina<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Javier Martinez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Javier Lopez</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">INTRODUCTION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Introduction Picture</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Introduction Video</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Goals and Achievements</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Contact</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photoshop\">Adobe PS</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"word\">Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"powerpoint\">PowerPoint</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobe audition\">Adobe Audition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobe premiere\">Adobe Premire</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobe illustrator\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe PS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Audition</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Premiere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IC3<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mr.Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Haayen Carolina<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Javier Martinez</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Javier Lopez</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#contacts1-2u\">Contact</a></li>"
         },
         {
           "_tags": [
@@ -143,6 +143,11 @@
           "_styles": {
             ".mbr-section-title, .lead p": {
               "color": "#fff"
+            },
+            "SPAN": {
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "font-size": "48px"
             }
           },
           "_tags": [
@@ -151,9 +156,9 @@
           "_name": "msg-box6",
           "_anchor": "msg-box6-g",
           "_params": {
-            "imageSize": "23",
-            "paddingTop": "4",
-            "paddingBottom": "2",
+            "imageSize": "26",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -166,18 +171,18 @@
             },
             "bgVideoRadio": true,
             "overlay": true,
-            "overlayOpacity": "0.6",
+            "overlayOpacity": "0.7",
             "overlayColor": "#2b0680",
             "inverse": true,
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": true
           },
           "media": {
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-1400x1866.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-1400x1863.jpg",
               "link": "index.html",
               "alt": "",
               "title": "",
@@ -195,9 +200,9 @@
               "size": 250
             }
           },
-          "title": "<i>Biography</i><br>",
-          "text": "This is an intro with beautiful background video and image on the left side.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html#content7-2t\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>"
+          "title": "<span style=\"font-weight: normal;\"><i>A Little Bit About Me</i></span><br>",
+          "text": "Ever since I was little I´ve watched my dad paint, and I always used to wonder how he managed to get his paintings picture perfect...",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"index.html#content7-2t\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>"
         },
         {
           "_styles": {
@@ -205,8 +210,8 @@
               "color": "#bcbcbc"
             },
             ".iconbox": {
-              "background-color": "#f2f2f2",
-              "border-color": "#f2f2f2"
+              "background-color": "#ffffff",
+              "border-color": "#ffffff"
             }
           },
           "_tags": [
@@ -215,13 +220,13 @@
           "_name": "features4",
           "_anchor": "features4-r",
           "_params": {
-            "iconsBgColor": "#f2f2f2",
+            "iconsBgColor": "#ffffff",
             "paddingTop": "1",
             "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -250,7 +255,7 @@
               "newWindow": false
             }
           },
-          "title1": "Photography",
+          "title1": "Photographer",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "One of my goals for the future is to be able to get better at photographing.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -267,7 +272,7 @@
               "newWindow": false
             }
           },
-          "title2": "Traveling",
+          "title2": "World-Traveler",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of my goals in the future is to be able to travel around the world and be able to visit new people,and see the different types of cultures that they have, eat new foods, and visit new places.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -283,7 +288,7 @@
               "color": "#553982"
             }
           },
-          "title3": "Writing",
+          "title3": "Writer",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "One of my achievements is being able to express emotions into writting.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -299,7 +304,7 @@
               "color": "#553982"
             }
           },
-          "title4": "Painting",
+          "title4": "Painter",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "One of my achievements is being able to get better at painting by always practicing.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -343,7 +348,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#ffffff"
           },
           "text": "<blockquote>\"Successful people maintain a positive focus in life no matter what is going on around them. They stay focused on their past successes rather than their past failures, and on the next action steps they need to take to get them closer to the fulfillment of their goals rather than all the other distractions that life presents to them.\"- Jack Canfield</blockquote><p>&nbsp;</p>"
         },
@@ -356,25 +361,25 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#ffffff"
           },
-          "text1": "<p>Ever scince I was little I´ve watched my dad paint, and I always used to wonder how he managed to get his paintings picture perfect. During that time I started to get more curious about how technology and art worked together to create masterpieces, I always liked when any type of drawing or painting had a modern twist to it or when it was made with a different things rather than with an actual pen or pencil, thats was when my parents told me about graphic designing and photoshop.</p>",
-          "text2": "Little by little I started to get more interested into graphic designing and photoshop. I started to watch every single video that there was about graphic designing and photosop, I also started to read about famous graphic designers &nbsp;from the past like Paul Rand. David Carson and Olt Aicher and I payed close attention to the techniques that they put into their work, and little by little i have been practicing",
-          "text3": "&nbsp;in order to get better at graphing desing, photoshop, and in order to be able to apply this type knowledge on &nbsp;programs to my future career or hobbies."
+          "text1": "<p>During that time I started to get more curious about how technology and art worked together to create masterpieces, I always liked when any type of drawing or painting had a modern twist to it or when it was made with a different things rather than with an actual pen or pencil, thats was when my parents told me about graphic designing and photoshop.</p>",
+          "text2": "Little by little I started to get more Interested into graphic designing and photoshop. I started to watch every single video that there was about graphic designing and photosop, I also started to read about famous graphic designers &nbsp;from the past like Paul Rand. David Carson and Olt Aicher and I payed close attention to the techniques that they put into their work, and little by little I have been practicing",
+          "text3": "&nbsp;In order to get better at graphing desing, photoshop, and In order to be able to apply this type knowledge on &nbsp;programs to my future career or hobbies."
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "contacts1",
-          "_anchor": "contacts1-v",
+          "_anchor": "contacts1-2u",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -382,9 +387,13 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/signature-2-128x42.jpg",
               "width": 128,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -392,8 +401,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>Address</strong><br>21386sw 112ave",
+          "text2": "<strong>Contacts</strong><br>\nEmail: slugones@miamiartsstudio.com<br>\nPhone: (786)-397-1094<br><br>",
           "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
         },
         {
@@ -408,7 +417,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
