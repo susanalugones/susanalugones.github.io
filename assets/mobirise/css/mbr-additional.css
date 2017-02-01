@@ -489,6 +489,7 @@ h6,
 }
 #header3-31 H3 {
   font-family: 'Merriweather', serif;
+  font-size: 46px;
 }
 #features4-r .card-subtitle {
   color: #bcbcbc;
@@ -927,6 +928,7 @@ h6,
 #ext_menu-2h .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+
 #ext_menu-2x .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -990,6 +992,9 @@ h6,
 }
 #form1-30 .form-control-label {
   color: #232323;
+}
+#form1-30 .mbr-section-title {
+  font-family: 'Merriweather', serif;
 }
 #ext_menu-34 .hide-buttons .nav-btn {
   display: none !important;
