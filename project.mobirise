@@ -21,9 +21,9 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 121,
+    "uniqCompNum": 122,
     "versionPublish": "3.11.1",
-    "path": "@PROJECT_PATH@",
+    "path": "file:///G:",
     "screenshot": "screenshot.png"
   },
   "pages": {
@@ -95,7 +95,7 @@
           "_anchor": "ext_menu-2",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": 0.75,
+            "fontSize": "0.75",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -172,7 +172,7 @@
             "bgVideoRadio": true,
             "overlay": true,
             "overlayOpacity": "0.7",
-            "overlayColor": "#2b0680",
+            "overlayColor": "#000000",
             "inverse": true,
             "showTitle": true,
             "showText": true,
@@ -202,7 +202,7 @@
           },
           "title": "<span style=\"font-weight: normal;\"><i>A Little Bit About Me</i></span><br>",
           "text": "Ever since I was little I´ve watched my dad paint, and I always used to wonder how he managed to get his paintings picture perfect...",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"index.html#content7-2t\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html#content7-2t\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>"
         },
         {
           "_styles": {
@@ -278,21 +278,21 @@
               "family": "et-line",
               "active": true,
               "link": "https://mobirise.com",
-              "size": 0,
+              "size": "",
               "color": "#553982",
               "newWindow": false
             }
           },
           "title1": "Photographer",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "One of my goals for the future is to be able to take profesional photoghraphs and incorporate them into my work pieces.",
+          "caption1": "I want to be able to capture momentents in my life, make a story out of them and to be able to look back to that time in my life. I also want to capture the essence around me and incorporate that into beautiful work pieces.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
               "linkInNewWindow": false,
-              "name": "map-pin",
-              "family": "MobiriseIcons",
+              "name": "map",
+              "family": "et-line",
               "active": true,
               "link": "https://mobirise.com",
               "size": "",
@@ -302,13 +302,13 @@
           },
           "title2": "World-Traveler",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of my goals in the future is to be able to travel around the world and be able to visit new people,and see the different types of cultures that they have, eat new foods, and visit new places.",
+          "caption2": "One of my goals in the future is to be able to travel around the world simply because I want to experience all the varieties&nbsp;and possibilities that can be enabled here on Earth and I want be &nbsp;to visit new people so that they can teach me their prespective of the world ,and I to see the different types of cultures &nbsp;they have, &nbsp;and eat new foods, and visit &nbsp;places that the world has to offer.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
               "linkInNewWindow": false,
-              "name": "puzzle",
+              "name": "gears",
               "family": "et-line",
               "active": true,
               "link": "https://mobirise.com",
@@ -316,9 +316,9 @@
               "color": "#553982"
             }
           },
-          "title3": "Pediatrician<br>",
+          "title3": "Architect<br>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "One of my goals is to be a pediatrician, because I have always liked little kids and I would love to help them as a part of my career.",
+          "caption3": "One of my goals is to be an architect because<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -334,7 +334,7 @@
           },
           "title4": "Lawyer",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "One of my goals is to be able to help people with their problems and to stand up for what is right.",
+          "caption4": "I simply &nbsp;always have found myself interested in the study of law, mostly because I to be able to help people with their problems, I just want to &nbsp;provide assistance to people when they're faced with difficult situations. I also want understand how the system works and also as to why it works the way that it does.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
