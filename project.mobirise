@@ -21,9 +21,9 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 128,
+    "uniqCompNum": 129,
     "versionPublish": "3.11.1",
-    "path": "@PROJECT_PATH@",
+    "path": "file:///G:",
     "screenshot": "screenshot.png"
   },
   "pages": {
@@ -139,6 +139,37 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">DOWNLOAD FOR WIN</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\">DOWNLOAD FOR MAC</a>"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-3k",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bbbbbw4-2000x1246.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/DXTf1mpJotA?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "Susana Lugones",
+          "text": "Welcome",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        },
+        {
           "_inherit": "msg-box5",
           "_styles": {
             ".mbr-section-title, .lead p": {
@@ -163,16 +194,16 @@
             "paddingTop": "3",
             "paddingBottom": "3",
             "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bbbbbw4-2000x1246.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
               "width": 1280,
               "height": 720,
-              "url": "https://www.youtube.com/embed/DXTf1mpJotA?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "1234 Street Name City, AA 99999"
             },
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.7",
             "overlayColor": "#000000",
@@ -1761,6 +1792,11 @@
             "Theme"
           ],
           "_name": "gallery4",
+          "_styles": {
+            "LI": {
+              "color": "#ffffff"
+            }
+          },
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "2",
@@ -1849,12 +1885,7 @@
           },
           "_anchor": "gallery4-3b",
           "articleLayout": false,
-          "allItem": "All",
-          "_styles": {
-            "LI": {
-              "color": "#ffffff"
-            }
-          }
+          "allItem": "All"
         }
       ]
     },
@@ -1957,12 +1988,20 @@
             "Theme"
           ],
           "_name": "header4",
+          "_styles": {
+            ".mbr-section-lead": {
+              "text-align": "left"
+            },
+            ".mbr-section-title": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "header4-3j",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/black_and_white_rose_1280x1024-2000x1600.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/black-and-white-rose-1280x1024-2000x1600.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1979,15 +2018,7 @@
           },
           "title": "Continued Biography",
           "text": "During that time I started to get more curious about how technology and art worked together to create masterpieces, I always liked when any type of drawing or painting had a modern twist to it or when it was made with a different things rather than with an actual pen or pencil, thats was when my parents told me about graphic designing and photoshop.Little by little I started to get more Interested into graphic designing and photoshop. I started to watch every single video that there was about graphic designing and photosop, I also started to read about famous graphic designers  from the past like Paul Rand. David Carson and Olt Aicher and I payed close attention to the techniques that they put into their work, and little by little I have been practicing,In order to get better at graphing desing, photoshop, and In order to be able to apply this type knowledge on  programs to my future career or hobbies.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-lead": {
-              "text-align": "left"
-            },
-            ".mbr-section-title": {
-              "text-align": "center"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_tags": [
