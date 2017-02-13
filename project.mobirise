@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page11.html",
+    "currentPage": "page12.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 165,
+    "uniqCompNum": 171,
     "versionPublish": "3.11.1",
     "path": "file:///G:",
     "screenshot": "screenshot.png"
@@ -35,7 +35,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -444,7 +444,7 @@
       "settings": {
         "title": "Web Builder Title",
         "meta_descr": "Web Builder Description",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -592,7 +592,7 @@
       "settings": {
         "title": "Site Builder Title",
         "meta_descr": "Site Builder Description",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -740,7 +740,7 @@
       "settings": {
         "title": "Web Page Builder Title",
         "meta_descr": "Web Page Builder Description",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -984,7 +984,7 @@
       "settings": {
         "title": "Website Builder Title",
         "meta_descr": "Website Builder Description",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -1141,7 +1141,7 @@
       "settings": {
         "title": "Site Maker Title",
         "meta_descr": "Site Maker Description",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -1394,7 +1394,7 @@
       "settings": {
         "title": "Site Generator Title",
         "meta_descr": "Site Generator Description",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -1588,7 +1588,7 @@
       "settings": {
         "title": "Website Generator Title",
         "meta_descr": "Website Generator Description",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -1800,7 +1800,7 @@
       "settings": {
         "title": "Site Builder Title",
         "meta_descr": "Site Builder Description",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -2050,7 +2050,7 @@
       "settings": {
         "title": "Web Site Creator Title",
         "meta_descr": "Web Site Creator Description",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -2300,7 +2300,7 @@
       "settings": {
         "title": "Website Maker Title",
         "meta_descr": "Website Maker Description",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -2546,10 +2546,10 @@
         }
       ]
     },
-    "page11.html": {
+    "page12.html": {
       "settings": {
-        "title": "Website Maker Title",
-        "meta_descr": "Website Maker Description",
+        "title": "Web Site Creator Title",
+        "meta_descr": "Web Site Creator Description",
         "order": 1
       },
       "components": [
@@ -2607,7 +2607,7 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-4c",
+          "_anchor": "ext_menu-4l",
           "_params": {
             "bgColor": "#000000",
             "fontSize": "0.75",
@@ -2645,7 +2645,16 @@
             "Theme"
           ],
           "_name": "header1",
-          "_anchor": "header1-4f",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "60px"
+            },
+            ".mbr-section-lead": {
+              "font-size": "23px",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "header1-4o",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
@@ -2667,16 +2676,7 @@
           },
           "title": "SUSANA LUGONES",
           "text": "\"Successful people maintain a positive focus in life no matter what is going on around them. They stay focused on their past successes rather than their past failures, and on the next action steps they need to take to get them closer to the fulfillment of their goals rather than all the other distractions that life presents to them.\"- Jack Canfield<br><br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">ENTER</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "60px"
-            },
-            ".mbr-section-lead": {
-              "font-size": "23px",
-              "text-align": "left"
-            }
-          }
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">ENTER</a>"
         },
         {
           "_styles": {
@@ -2693,7 +2693,7 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-4h",
+          "_anchor": "header3-4p",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": 1,
@@ -2758,7 +2758,7 @@
             "fullWidth": false,
             "showBullets": true
           },
-          "_anchor": "gallery1-4i",
+          "_anchor": "gallery1-4q",
           "articleLayout": false,
           "allItem": "All"
         },
@@ -2767,7 +2767,7 @@
             "Theme"
           ],
           "_name": "contacts4",
-          "_anchor": "contacts4-4k",
+          "_anchor": "contacts4-4m",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -2817,7 +2817,7 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-4e",
+          "_anchor": "footer1-4n",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
