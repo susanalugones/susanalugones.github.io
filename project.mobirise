@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "firstpage.html",
+    "currentPage": "page11.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -2546,7 +2546,7 @@
         }
       ]
     },
-    "firstpage.html": {
+    "page11.html": {
       "settings": {
         "title": "Website Maker Title",
         "meta_descr": "Website Maker Description",
