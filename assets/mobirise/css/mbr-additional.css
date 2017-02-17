@@ -588,6 +588,10 @@ h6,
 #msg-box8-4r p {
   color: #fff;
 }
+#msg-box6-50 .mbr-section-title,
+#msg-box6-50 .lead p {
+  color: #fff;
+}
 #header3-4p .mbr-section-title,
 #header3-4p .mbr-section-subtitle {
   text-align: center;
@@ -596,74 +600,6 @@ h6,
   text-align: right;
   font-size: 32px;
   color: #ffffff;
-}
-
-#ext_menu-2x .hide-buttons .nav-btn {
-  display: none !important;
-}
-#ext_menu-2x .navbar-caption {
-  color: #ffffff;
-}
-#ext_menu-2x .navbar-toggler {
-  color: #ffffff;
-}
-#ext_menu-2x .close-icon::before,
-#ext_menu-2x .close-icon::after {
-  background-color: #ffffff;
-}
-#ext_menu-2x .link,
-#ext_menu-2x .dropdown-item {
-  color: #ffffff;
-}
-#ext_menu-2x .link {
-  font-size: 0.75rem;
-}
-#ext_menu-2x .dropdown-item,
-#ext_menu-2x .nav-dropdown-sm .link {
-  font-size: 0.812rem;
-}
-#ext_menu-2x .link:hover,
-#ext_menu-2x .dropdown-item:hover,
-#ext_menu-2x .link:focus,
-#ext_menu-2x .dropdown-item:focus {
-  color: #c0a375;
-}
-#ext_menu-2x .link[aria-expanded="true"],
-#ext_menu-2x .dropdown-menu {
-  background: #000000;
-}
-#ext_menu-2x .nav-dropdown-sm .link:focus,
-#ext_menu-2x .nav-dropdown-sm .link:hover,
-#ext_menu-2x .nav-dropdown-sm .dropdown-item:focus,
-#ext_menu-2x .nav-dropdown-sm .dropdown-item:hover {
-  background: #000000!important;
-}
-#ext_menu-2x .navbar,
-#ext_menu-2x .nav-dropdown-sm,
-#ext_menu-2x .nav-dropdown-sm .link[aria-expanded="true"],
-#ext_menu-2x .nav-dropdown-sm .dropdown-menu {
-  background: #000000;
-}
-#ext_menu-2x .bg-color.transparent .link {
-  color: #ffffff;
-  transition: none;
-}
-#ext_menu-2x .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#ext_menu-2x .bg-color.transparent.opened .link:hover,
-#ext_menu-2x .bg-color.transparent.opened .link:focus {
-  color: #c0a375;
-}
-#ext_menu-2x .link[aria-expanded="true"],
-#ext_menu-2x .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
-}
-#form1-30 .form-control-label {
-  color: #232323;
-}
-#form1-30 .mbr-section-title {
-  font-family: 'Merriweather', serif;
 }
 
 #ext_menu-3e .hide-buttons .nav-btn {
