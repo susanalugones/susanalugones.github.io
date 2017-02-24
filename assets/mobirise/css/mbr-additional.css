@@ -588,8 +588,9 @@ h6,
 #msg-box8-4r p {
   color: #fff;
 }
-#msg-box6-50 .mbr-section-title,
-#msg-box6-50 .lead p {
+#content8-53 .mbr-section-title,
+#content8-53 p {
+  text-align: right;
   color: #fff;
 }
 #header3-4p .mbr-section-title,
@@ -600,6 +601,10 @@ h6,
   text-align: right;
   font-size: 32px;
   color: #ffffff;
+}
+#social-buttons4-54 .mbr-section-title,
+#social-buttons4-54 .btn-social {
+  color: #fff;
 }
 
 #ext_menu-3e .hide-buttons .nav-btn {
