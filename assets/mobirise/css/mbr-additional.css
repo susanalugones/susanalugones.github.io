@@ -516,6 +516,9 @@ h6,
   color: #232323;
   font-family: 'PT Serif', serif;
 }
+#contacts4-4m UL {
+  text-align: left;
+}
 #ext_menu-4l .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -605,6 +608,9 @@ h6,
 #social-buttons4-54 .mbr-section-title,
 #social-buttons4-54 .btn-social {
   color: #fff;
+}
+#contacts4-4m UL {
+  text-align: left;
 }
 
 #ext_menu-3e .hide-buttons .nav-btn {
