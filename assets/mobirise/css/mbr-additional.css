@@ -608,6 +608,9 @@ h6,
   font-size: 32px;
   color: #ffffff;
 }
+#gallery1-4q .mbr-gallery-item > div > span {
+  text-align: center;
+}
 #social-buttons4-54 .mbr-section-title,
 #social-buttons4-54 .btn-social {
   color: #fff;

@@ -591,7 +591,7 @@
           },
           "title": "SUSANA LUGONES",
           "text": "\"Successful people maintain a positive focus in life no matter what is going on around them. They stay focused on their past successes rather than their past failures, and on the next action steps they need to take to get them closer to the fulfillment of their goals rather than all the other distractions that life presents to them.\"- Jack Canfield<br><br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"intro.html\" data-toolbar=\"-mbrBtnMove\">CONTINUE</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"intro.html\" data-toolbar=\"-mbrBtnMove\">CONTINUE</a>"
         },
         {
           "_styles": {
@@ -694,8 +694,8 @@
           ],
           "_name": "gallery1",
           "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "images": [
               {
                 "tags": "Awesome",
@@ -748,7 +748,12 @@
           },
           "_anchor": "gallery1-4q",
           "articleLayout": false,
-          "allItem": "All"
+          "allItem": "All",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_inherit": "social-buttons2",
