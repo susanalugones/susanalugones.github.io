@@ -958,6 +958,13 @@ h6,
 #ext_menu-34 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#header3-58 .mbr-section-title,
+#header3-58 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-58 H3 {
+  color: #313030;
+}
 #contacts4-4m UL {
   text-align: left;
 }
