@@ -1299,6 +1299,12 @@ h6,
 #ext_menu-5a .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#contacts4-61 UL {
+  text-align: left;
+}
+#contacts4-61 P {
+  color: #ffffff;
+}
 #ext_menu-60 .hide-buttons .nav-btn {
   display: none !important;
 }
