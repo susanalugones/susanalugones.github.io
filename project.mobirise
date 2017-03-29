@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 238,
+    "uniqCompNum": 241,
     "versionPublish": "3.11.1",
     "path": "file:///G:",
     "screenshot": "screenshot.png"
@@ -655,7 +655,7 @@
             },
             "bgVideoRadio": true,
             "overlay": true,
-            "overlayOpacity": "0.4",
+            "overlayOpacity": "0.8",
             "overlayColor": "#000000",
             "showTitle": false,
             "showCaption": false
@@ -781,6 +781,19 @@
           },
           "text": "FOLLOW US",
           "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCXPN1G3ju8gFEPppe_PUXBg\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-6o",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#17191e"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"https://www.youtube.com/watch?v=pNp-MNuQLk4\" data-toolbar=\"-mbrBtnMove\">See What I Am Working On</a>"
         },
         {
           "_tags": [
